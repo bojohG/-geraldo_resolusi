@@ -1,6 +1,6 @@
 Rencana Start-Up :
 - bergerak di bidang design
-- bergerak di bidang hardware dan software
+- bergerak di bidang web development
 - memiliki fitur yang baik namun simple
 - mudah digunakan oleh user
 - target umur semua umur
