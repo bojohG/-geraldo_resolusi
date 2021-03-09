@@ -2,3 +2,5 @@ Rencana Start-Up :
 - bergerak di bidang design
 - memiliki fitur yang baik namun simple
 - mudah digunakan oleh user
+- target umur semua umur
+- fitur chat dll
