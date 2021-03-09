@@ -3,4 +3,5 @@ Rencana Start-Up :
 - memiliki fitur yang baik namun simple
 - mudah digunakan oleh user
 - target umur semua umur
-- fitur chat dll
+- fitur chat
+- fitur follower
